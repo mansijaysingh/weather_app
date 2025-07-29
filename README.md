@@ -25,22 +25,6 @@ User can enter a city name and see real-time weather details like temperature & 
 pip install -r requirements.txt
 python app.py
 
-##----
-🌐 Live Link
-👉 weather-app.onrender.com
 
-🛠 Tech Stack
-Python
-
-Flask
-
-WeatherAPI
-
-HTML/CSS
-
-✨ Author
-Made with ❤️ by Mansi Singh
-📩 mansisingh.an000@gmail.com
-📌 GitHub: @mansijaysingh
 
 
