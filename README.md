@@ -14,16 +14,6 @@ A simple and beautiful weather app built using **Python (Flask)** and **WeatherA
 
 ---
 
-## 📸 Screenshots
-
-| Search                            | Result                              |
-| --------------------------------- | ----------------------------------- |
-| ![input](./screenshots/input.png) | ![output](./screenshots/output.png) |
-
-*(Optional: Add `screenshots` folder and images for visual showcase)*
-
----
-
 ## 🚀 Run the App Locally
 
 ### 1. Clone the repository:
